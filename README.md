@@ -2,7 +2,7 @@
 
 ## Abstract
 
-MIPS MOTS
+MOTS(Man On The Side) attack in MIPS architecture.
 
 ## Installation
 
@@ -14,4 +14,14 @@ $ make
 $ cd ..
 $ make
 ```
+
+## Usage
+
+- Move mots binary to /bin/mots in MIPS
+
+```
+$ mots
+```
+
+- Done
 
